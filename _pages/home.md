@@ -1,5 +1,5 @@
 ---
-title: "Custom Lab - Home"
+title: "UoG Research Lab - Home"
 layout: homelay
 excerpt: "Custom Lab at University of Gujrat &rarr; UoG."
 sitemap: false
