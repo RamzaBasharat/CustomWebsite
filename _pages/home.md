@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "Custom Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University &rarr; LMU."
+excerpt: "Custom Lab at University of Gujrat &rarr; UoG."
 sitemap: false
 permalink: /
 ---
